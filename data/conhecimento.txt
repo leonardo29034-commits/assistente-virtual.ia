@@ -1,0 +1,13 @@
+SISTEMA DE DETECÇÃO DE ANOMALIAS E SEGURANÇA BANCÁRIA
+
+1. Regras de Transação:
+- Transações acima de R$ 5.000,00 realizadas entre 22:00 e 06:00 são consideradas suspeitas/anômala.
+- O limite diário padrão para transferências PIX é de R$ 3.000,00 por cliente.
+- Transações internacionais exigem confirmação prévia no aplicativo.
+
+2. Procedimentos para Bloqueio:
+- Em caso de suspeita de fraude, a conta do cliente é temporariamente bloqueada por até 24 horas para análise.
+- O cliente pode desbloquear a conta através do biometria facial no app oficial ou ligando na central (0800-123-4567).
+
+3. Suporte ao Cliente:
+- O banco nunca solicita senhas ou códigos SMS por telefone ou mensagem.
